@@ -1,0 +1,4 @@
+Vezetes 155000 1
+Gabonasiklo 30000 2
+Gep 150000 2
+Deszka 30000 2

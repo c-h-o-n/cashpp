@@ -1,0 +1,12 @@
+[CHANGELOG]
+	Version: 1.0
+[ADDED]
+	General text frame: No., Name, Amount, Priority, Total, Balance, Controls
+	Budget: Adding, Changing, Removing
+	Cost: Adding, Paying, Changing, Removing
+[BUGS]
+
+[PLANNED]
+	Error handling on inputs
+	Error handling
+	Log
